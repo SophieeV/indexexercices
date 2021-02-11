@@ -1,0 +1,20 @@
+body
+{
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+h1
+{
+  color:rgb(0,82,33);
+}
+h2
+{
+  color:rgb(63,128,70);
+}
+h3
+{
+  color:rgb(89,182,91);
+}
+ol{
+  padding-left : 5%;
+  }
